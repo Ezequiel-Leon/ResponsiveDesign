@@ -1,0 +1,29 @@
+@media screen and (max-width: 1920px){
+	body{
+		background-color: #0b1721;
+	}
+}
+@media screen and (max-width: 1280px){
+	body{
+		background-color: #13d178;
+	}
+}
+@media screen and (max-width: 800px){
+	body{
+		background-color: #7928d6;
+	}
+}
+@media screen and (max-width: 480px){
+	body{
+		background-color: #e40952;
+	}
+}
+	
+.footer-custom-color{
+	background-color: rgb(16, 34, 197);
+
+}
+*{
+	font-family:'Bauhaus 93';
+	font-size: 20px;
+}
